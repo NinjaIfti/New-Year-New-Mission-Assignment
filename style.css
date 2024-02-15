@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0px;
+    font-family: 'Merriweather', serif;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    
+}
+
+body {
+    width: 1350px;
+    margin: 0 auto;
+}
+
+header {
+
+    
+
+
+    background: linear-gradient(rgba(0, 0, 0, 0.1), #030303), url('resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.header-content {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.header-content p {
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.header-description {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.header-description h3 {
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+.section-1 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.section-1 h1 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.section-1 p {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 10px;
+
+}
+
+.section-1 h3 {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.section-1 img {
+    margin-bottom: 100px;
+}
+
