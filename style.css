@@ -242,7 +242,7 @@ body {
     width: 290px;
     height: 290px;
     border-radius: 300px;
-    background: url('../images/Ellipse\ 1.png'), lightgray -91.279px 0px / 150.038% 100% no-repeat;
+    background: url('./images/Ellipse.png'), lightgray -91.279px 0px / 150.038% 100% no-repeat;
     background-size: contain;
 }
 
