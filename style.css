@@ -289,7 +289,7 @@ body {
     margin-top: 50px;
     width: 429px;
     height: 433px;
-    background: url('../images/Rectangle\ 1.png'), no-repeat;
+    background: url('./images/Rectangle.png'), no-repeat;
     background-position: left;
     margin-left: 700px;
 }
