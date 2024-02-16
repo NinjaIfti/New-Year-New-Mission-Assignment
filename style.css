@@ -86,7 +86,7 @@ body {
 }
 
 .party-container {
-    background-image: url('/images/Banner\ Image.png');
+    background-image: url('./images/Banner\ Image.png');
     background-repeat: no-repeat;
     background-size: contain;
     width: 1140px;
