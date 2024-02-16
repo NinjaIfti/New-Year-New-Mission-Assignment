@@ -297,7 +297,7 @@ body {
 .holi-img2 {
     width: 1129px;
     height: 200px;
-    background: url('../images/Rectangle\ 2.png');
+    background: url('./images/Rectangle2.png');
     position: relative;
 }
 
