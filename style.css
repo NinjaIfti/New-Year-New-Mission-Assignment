@@ -6,7 +6,8 @@ body {
 /* New Year Party Celebration style */
 .header-section {
     width: 1140px;
-    margin: 0 auto;
+    margin: auto;
+    margin-top: 80px;
 }
 
 .header-container {
